@@ -28,12 +28,14 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 <h2 align="center">📃 Github Stats</h2>
 
 
-<diV>
-  <div align="center">
-    <a href="#"><img alt="rxaviersantos" src="https://github-readme-stats.vercel.app/api?username=rxaviersantos&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-<br/>
+<div align="center">
+  <a href="https://github.com/rxaviersantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rxaviersantos&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxaviersantos&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/>
+</div>
 
-<h2> :sparkles: Main Technologies</h2>
+
+<h2 align="center"> :sparkles: Main Technologies</h2>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
@@ -51,33 +53,38 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 
 
 
+
+
 ```
-▬▬▬▬.◙.▬▬▬▬
-  ▂▄▄▓▄▄▂                                                        ╫►►        ▁▁ ▓
-◢◤ █▀▀████▄▄▄▄▄▄▄◢◤            ● ● ● ▄▄▄▄▄▄▄████▮                ╫       █████████
-█  Innovation      █▀▀▀▀╬            ▂▃▄▅████▀▀▀████▅▄            ╫    ▟██⍁██⍁██⍁███▙
-◥█████████◤                       ▄█████     Technology █████▄       ▜████      Programming  ████▛
-══╩════╩══                         ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲◤         ▜███████████████████▛╬
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+         ▬▬▬▬.◙.▬▬▬▬
+           ▂▄▄▓▄▄▂                                                        ╫►►        ▁▁ ▓
+        ◢◤ █▀▀████▄▄▄▄▄▄▄◢◤            ● ● ● ▄▄▄▄▄▄▄████▮                ╫       █████████
+      █  Innovation      █▀▀▀▀╬            ▂▃▄▅████▀▀▀████▅▄            ╫    ▟██⍁██⍁██⍁███▙
+      ◥█████████◤                       ▄█████     Technology █████▄       ▜████      Programming  ████▛
+        ══╩════╩══                         ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲◤         ▜███████████████████▛╬
+       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
+
+
+
+<br/>
 
 <p align="center">
-
-
-<p align="center">
-
- ## Personal stuff 
- 
-     👨🏾‍💻 I am currently studying Javascript.
- 
-    🛠 Currently I have worked with Azure DevOps, .Net, Javascript, C#, SQL, Git.
- 
-    🧵 I love exploring new piles of technology.
- 
-    📰 Read whenever possible about technology.
+🧔🏾‍♂️Personal stuff
 <p />
-    
-  
+
+
+<p align="center">
+
+       👨🏾‍💻 I am currently studying Javascript. 
+      
+       🛠 Currently I have worked with Azure DevOps, .Net, Javascript, C#, SQL. 
+   
+       🧵 I love exploring new piles of technology. 
+   
+       📰 Read whenever possible about technology. 
+<p />
+     
 
 ##
 

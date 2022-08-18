@@ -38,21 +38,18 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 <h2 align="center"> :sparkles: Main Technologies</h2>
 
 <p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/%20Azure DevOps-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
-    <a href="#"><img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badg&logo=dotnet&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C Sharp-0D1117?logo=c-sharp&logoColor=F0DB4F" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badg&logo=dotnet&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F0DB4F"></a>
+   <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Heroku-0D1117?style=flat-square&logo=heroku&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/%20Azure DevOps-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F"></a>
 
 </p>
-
-
-
-
 
 
 ```
@@ -78,7 +75,7 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 
        👨🏾‍💻 I am currently studying Javascript. 
       
-       🛠 Currently I have worked with Azure DevOps, .Net, Javascript, C#, SQL. 
+       🛠 Currently I have worked with Azure DevOps, C#, ASP.Net, Javascript, HTML/CSS, Git e SQL. 
    
        🧵 I love exploring new piles of technology. 
    

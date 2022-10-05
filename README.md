@@ -28,9 +28,10 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 <h2 align="center">📃 Github Stats</h2>
 
 
+
 <div align="center">
   <a href="https://github.com/rxaviersantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rxaviersantos&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200""/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rxaviersantos&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200""/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxaviersantos&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/>
 </div>
 

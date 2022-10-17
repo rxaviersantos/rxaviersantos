@@ -8,13 +8,13 @@ About me
 
 <p align="center">
 
-I am an Information System graduate from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies. I love exploring new technologies and leveraging them to solve real-life problems. In addition, I also love connecting with people. I am currently studying Web Development.
+I am an Information System graduate from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies. I love exploring new technologies and leveraging them to solve real-life problems. In addition, I also love connecting with people. I am currently studying web development.
 <p />
 
 <br>
 
 <h2 align="center">
-💬 Contact Me 
+💬 Contact me 
 <h2 />
 
 <p align="center">   
@@ -25,7 +25,7 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 </p>
 
 
-<h2 align="center">📃 Github Stats</h2>
+<h2 align="center">📃 Github stats</h2>
 
 
 
@@ -36,7 +36,7 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 </div>
 
 
-<h2 align="center"> :sparkles: Main Technologies</h2>
+<h2 align="center"> :sparkles: Main technologies</h2>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/%20Azure DevOps-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F"></a>

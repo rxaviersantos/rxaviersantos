@@ -8,11 +8,11 @@ About me
 
 <p align="center">
 
-I am an Information System graduate from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies. I love exploring new technologies and leveraging them to solve real-life problems. In addition, I also love connecting with people. 
+I am an Information System graduate from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies. I love exploring new technologies and leveraging them to solve real-life problems. In addition, I also love connecting with people. I am currently studying Javascript and love to read and explore new technology stacks like working with cloud system and agile methodology.
 <p />
 <br>
 
-```
+```javascript
 const Rodrigo = {
   from: "Brazil",
   pronouns: "he" | "him",
@@ -24,9 +24,11 @@ const Rodrigo = {
 
 ``` 
 
+
 <h2 align="center">
-💬 Contact me 
+<img src="https://img.icons8.com/office/40/000000/new-contact.png"/> Contact me 
 <h2 />
+
 
 <p align="center">   
   <a href="mailto:rodrigomxsantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
@@ -36,7 +38,9 @@ const Rodrigo = {
 </p>
 
 
-<h2 align="center">📃 Github stats</h2>
+
+  
+<h2 align="center"><img src="https://img.icons8.com/external-anggara-filled-outline-anggara-putra/48/null/external-loss-business-and-finance-anggara-filled-outline-anggara-putra.png"/> Github stats</h2>
   
 <div align="center">
   <a href="https://github.com/rxaviersantos">

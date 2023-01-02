@@ -8,10 +8,21 @@ About me
 
 <p align="center">
 
-I am an Information System graduate from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies. I love exploring new technologies and leveraging them to solve real-life problems. In addition, I also love connecting with people. I am currently studying web development.
+I am an Information System graduate from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies. I love exploring new technologies and leveraging them to solve real-life problems. In addition, I also love connecting with people. 
 <p />
-
 <br>
+
+```
+const Rodrigo = {
+  from: "Brazil",
+  pronouns: "he" | "him",
+  age: 35,
+  likes: [videogame, technology, books],
+  code: [Javascript, HTML, CSS],
+  tools: [React, Node],
+}
+
+``` 
 
 <h2 align="center">
 💬 Contact me 
@@ -26,9 +37,7 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 
 
 <h2 align="center">📃 Github stats</h2>
-
-
-
+  
 <div align="center">
   <a href="https://github.com/rxaviersantos">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rxaviersantos&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/>
@@ -67,22 +76,7 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 
 <br/>
 
-<p align="center">
-🧔🏾‍♂️Personal stuff
-<p />
 
-
-<p align="center">
-
-       👨🏾‍💻 I am currently studying Javascript. 
-      
-       🛠 Currently I have worked with Azure DevOps, C#, ASP.Net, Javascript, HTML/CSS, Git e SQL. 
-   
-       🧵 I love exploring new piles of technology. 
-   
-       📰 Read whenever possible about technology. 
-<p />
-     
 
 ##
 
@@ -107,6 +101,22 @@ You can click the Preview link to take a look at your changes.
 <!--
 **rxaviersantos/rxaviersantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p align="center">
+🧔🏾‍♂️Personal stuff
+<p />
+
+
+<p align="center">
+
+       👨🏾‍💻 I am currently studying Javascript. 
+      
+       🛠 Currently I have worked with Azure DevOps, C#, ASP.Net, Javascript, HTML/CSS, Git e SQL. 
+   
+       🧵 I love exploring new piles of technology. 
+   
+       📰 Read whenever possible about technology. 
+<p />
+     
 Here are some ideas to get you started:
 
 -  🔭 I’m currently working on ...

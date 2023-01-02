@@ -8,7 +8,7 @@ About me
 
 <p align="center">
 
-I am an Information System graduate from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies. I love exploring new technologies and leveraging them to solve real-life problems. In addition, I also love connecting with people. I am currently studying Javascript and love to read and explore new technology stacks like working with cloud system and agile methodology.
+I am an Information System graduate from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies. I love exploring new technologies and leveraging them to solve real-life problems. In addition, I also love connecting with people. I am currently studying Javascript, agile methodology and how to work with cloud systems. 
 <p />
 <br>
 

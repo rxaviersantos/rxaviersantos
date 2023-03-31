@@ -7,8 +7,8 @@ About me
 <p />
 
 <p align="center">
-
-I am an Information System graduate from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies. I love exploring new technologies and leveraging them to solve real-life problems. In addition, I also love connecting with people. I am currently studying Javascript, agile methodology and how to work with cloud systems. 
+  
+I have a bachelor's degree in Information System from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies, I love exploring new technologies and leveraging them to solve real life problems. I also enjoy interacting and meeting people. I am currently studying software testing and agile methodology with Scrum.  
 <p />
 <br>
 
@@ -16,10 +16,10 @@ I am an Information System graduate from Faculdade Pitágoras. I am a passionate
 const Rodrigo = {
   from: "Brazil",
   pronouns: "he" | "him",
-  age: 35,
+  age: 36,
   likes: [games, technology, books],
   code: [Javascript, HTML, CSS],
-  tools: [React, Node],
+  tools: [React, NodeJs, Scrum],
 }
 
 ``` 

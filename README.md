@@ -58,7 +58,7 @@ const Rodrigo = {
   <a href="#"><img src="https://img.shields.io/badge/npm-0D1117?style=flat-square&logo=npm&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/C Sharp-0D1117?logo=c-sharp&logoColor=F0DB4F" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/%20Azure DevOps-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Azure%20DevOps-0D1117.svg?style=flat-square&logo=Azure-DevOps&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Scrum%20Alliance-0D1117.svg?style=flat-square&logo=Scrum-Alliance&logoColor=F0DB4F"></a>  
   <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
   

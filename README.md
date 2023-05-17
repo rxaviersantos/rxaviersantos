@@ -17,8 +17,8 @@ const Rodrigo = {
   pronouns: "he" | "him",
   age: 36,
   likes: [games, technology, books],
-  code: [Javascript, HTML, CSS, SQL Server],
-  tools: [Cypress, NodeJs, Azure DevOps, Scrum],
+  code: [Javascript, C Sharp],
+  tools: [Cypress, NodeJs, Cucumber, Azure DevOps, SQL Server, Scrum],
 }
 
 ``` 
@@ -61,7 +61,7 @@ const Rodrigo = {
   <a href="#"><img src="https://img.shields.io/badge/%20Azure DevOps-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Scrum%20Alliance-0D1117.svg?style=flat-square&logo=Scrum-Alliance&logoColor=F0DB4F"></a>  
   <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F"></a>
+  
   
 
 

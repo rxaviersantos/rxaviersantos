@@ -7,8 +7,7 @@ About me
 <p />
 
 <p align="center">
-  
-I have a bachelor's degree in Information System from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies, I love exploring new technologies and leveraging them to solve real life problems. I also enjoy interacting and meeting people. I am currently studying software testing and agile methodology with Scrum.  
+Bachelor's degree in Information System from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies, I love exploring new technologies and leveraging them to solve real life problems. I also enjoy interacting and meeting people. Currently I am studying software testing using the Cypress tool for front-end testing.  
 <p />
 <br>
 
@@ -18,8 +17,8 @@ const Rodrigo = {
   pronouns: "he" | "him",
   age: 36,
   likes: [games, technology, books],
-  code: [QA, Javascript, HTML, CSS],
-  tools: [React, NodeJs, Scrum],
+  code: [Javascript, HTML, CSS, SQL Server],
+  tools: [Cypress, NodeJs, Azure DevOps, Scrum],
 }
 
 ``` 
@@ -52,16 +51,19 @@ const Rodrigo = {
 <h2 align="center"> :sparkles: Main technologies</h2>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/%20Azure DevOps-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cypress-0D1117?style=flat-square&logo=cypress&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Cucumber-0D1117.svg?style=flat-square&logo=Cucumber&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/npm-0D1117?style=flat-square&logo=npm&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/C Sharp-0D1117?logo=c-sharp&logoColor=F0DB4F" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badg&logo=dotnet&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F0DB4F"></a>
-   <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Heroku-0D1117?style=flat-square&logo=heroku&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/%20Azure DevOps-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Scrum%20Alliance-0D1117.svg?style=flat-square&logo=Scrum-Alliance&logoColor=F0DB4F"></a>  
+  <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F"></a>
+  
+
 
 </p>
 

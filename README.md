@@ -17,7 +17,7 @@ const Rodrigo = {
   pronouns: "he" | "him",
   age: 36,
   likes: [games, technology, books],
-  code: [Javascript, C Sharp],
+  code: [JavaScript, C Sharp],
   tools: [Cypress, NodeJs, Cucumber, Azure DevOps, SQL Server, Scrum],
 }
 

@@ -1,5 +1,8 @@
 <h1 align="center">
-  Hi friends, I'm Rodrigo!
+  Hi friends, I'm Rodrigo! <p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a>
+    <h2> About me </h2><p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigoxaviersantos&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigoxaviersantos" " /> </p>
+</p>
 </h1>
 
 <p align="center">

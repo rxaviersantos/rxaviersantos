@@ -2,7 +2,7 @@
   Hi friends, I'm Rodrigo! <p align='center'>
 </h1>
 <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=rxaviersantos&label=Profile%20views&color=F0DB4F&style=flat-square" alt="rxaviersantos"> 
+  <img src="https://komarev.com/ghpvc/?username=rxaviersantos&label=Profile%20views&color=F0DB4F&style=flat-square" alt="rxaviersantos"> <a href="#"><img src="https://badges.pufler.dev/visits/{rxaviersantos}/{rxaviersantos}"></a>
 </p>
 
 
@@ -39,7 +39,6 @@ const Rodrigo = {
   <a href="https://www.instagram.com/rodrigoxaviersantos_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
   <a href="https://twitter.com/rxaviersantos/" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F"></a>
 </p>
-
 
 
   
@@ -101,13 +100,15 @@ const Rodrigo = {
 
   
 
-
 <!---
 rodrigoxsantos/rodrigoxsantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
+<!---
+  <p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/{rxaviersantos}/{rxaviersantos}"></a> 
+</p>
+---->
 <!--
 **rxaviersantos/rxaviersantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -20,7 +20,7 @@ const Rodrigo = {
   from: "Brazil",
   pronouns: "he" | "him",
   age: 36,
-  likes: [games, technology, books],
+  likes: [ games, technology, books, coffee],
   code: [JavaScript, C#],
   tools: [Cypress, NodeJs, Cucumber, Azure DevOps, SQL Server, Scrum],
 }

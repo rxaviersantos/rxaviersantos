@@ -11,7 +11,7 @@ About me
 <p />
 
 <p align="center">
-Bachelor's degree in Information System from Faculdade Pitágoras. I am a passionate learner who is always willing to work on technologies, I love exploring new technologies and leveraging them to solve real life problems. I also enjoy interacting and meeting people. Currently I am studying software testing using the Cypress tool for front-end testing.  
+👋🏽 Software Analyst and Bachelor in Information Systems from Anhanguera College.👨🏽‍💻 Passionate about technology, always looking for solutions to real-world problems. 📚🌟 Currently improving skills in software testing.🫱🏼‍🫲🏽 Love networking and meeting amazing people.  
 <p />
 <br>
 
@@ -21,7 +21,7 @@ const Rodrigo = {
   pronouns: "he" | "him",
   age: 36,
   likes: [games, technology, books],
-  code: [JavaScript, C Sharp],
+  code: [JavaScript, C#],
   tools: [Cypress, NodeJs, Cucumber, Azure DevOps, SQL Server, Scrum],
 }
 

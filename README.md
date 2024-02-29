@@ -13,7 +13,7 @@ About me
 <p />
 
 <p align="center">
-  👋🏽 Software Analyst and Bachelor in Information Systems from Faculdade Anhanguera.👨🏽‍💻 Passionate about technology, always looking for solutions to real-world problems.  📚🌟 Currently improving his skills in software development.🫱🏼‍🫲🏽 I love networking and meeting amazing people.
+  👋🏽 Software Analyst and Bachelor in Information Systems from Faculdade Anhanguera.👨🏽‍💻 Passionate about technology, always looking for solutions to real-world problems. 📚🌟 Currently improving his skills in software development, with a special focus on technologies like Java. 🫱🏼‍🫲🏽 I love networking and meeting amazing people.
   
 <p />
   
@@ -23,10 +23,10 @@ About me
 const Rodrigo = {
   from: "Brazil",
   pronouns: "he" | "him",
-  age: 36,
-  likes: [games, technology, books, coffee],
-  code: [Csharp, JavaScript, Java],
-  tools: [.Net, Spring, React, NodeJs, Bootstrap, Cypress, Azure DevOps, MySQL, MongoDB, Scrum],
+  age: 37,
+  likes: [ games, technology, books, coffee ],
+  code: [ Java, C#, JavaScript ],
+  tools: [ Spring, .Net, React, NodeJs, Bootstrap, DevOps, Azure, Scrum ],
 }
 
 ``` 
@@ -58,35 +58,26 @@ const Rodrigo = {
 <h2 align="center"> :sparkles: Main technologies</h2>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-0D1117.svg?style=flat-square-badge&logo=openjdk&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/C Sharp-0D1117?logo=c-sharp&logoColor=F0DB4F" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/c%23-0D1117?style=flat-square&logo=csharp&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badg&logo=dotnet&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/bootstrap-0D1117?logo=bootstrap&logoColor=F0DB4F" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cypress-0D1117?style=flat-square&logo=cypress&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/docker-0D1117?style=flat-square&logo=docker&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/DevOps-0D1117?style=flat-square&logo=azuredevops&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Scrum%20Alliance-0D1117.svg?style=flat-square&logo=Scrum-Alliance&logoColor=F0DB4F"></a> 
+  <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-square&logo=gnu-bash&logoColor=F0DB4F"></a> 
+  <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a> 
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-mongodb-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Azure%20DevOps-0D1117.svg?style=flat-square&logo=Azure-DevOps&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Scrum%20Alliance-0D1117.svg?style=flat-square&logo=Scrum-Alliance&logoColor=F0DB4F"></a>  
-  <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a> 
-
- 
-
-</p>
-
-#
-
-<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=F0DB4F"></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=flat-square&logo=microsoft%20sql%20server&logoColor=F0DB4F"></a>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=rxaviersantos&theme=chalk&column=5&row=3&no-frame=true)](https://github.com/rxaviersantos/github-profile-trophy)
-
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rxaviersantos&bg_color=424242&color=ffffff&line=f0db4f&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+</p>
   
 ## 
 
@@ -104,7 +95,7 @@ const Rodrigo = {
 
 <!---
 
-
+Atualizações 
 ```
          ▬▬▬▬.◙.▬▬▬▬
            ▂▄▄▓▄▄▂                                                        ╫►►        ▁▁ ▓
@@ -136,6 +127,18 @@ You can click the Preview link to take a look at your changes.
 ---->
 <!--
 **rxaviersantos/rxaviersantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=rxaviersantos&theme=chalk&column=5&row=3&no-frame=true)](https://github.com/rxaviersantos/github-profile-trophy)
+
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rxaviersantos&bg_color=424242&color=ffffff&line=f0db4f&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <p align="center">
 🧔🏾‍♂️Personal stuff
